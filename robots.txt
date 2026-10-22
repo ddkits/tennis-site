@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tennis.reallexi.io/sitemap.xml
